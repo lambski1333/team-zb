@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lambski1333
+- 👀 I’m interested in Shopify theme work
+- 🌱 I’m currently learning front-end development
